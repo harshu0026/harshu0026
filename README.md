@@ -1,5 +1,5 @@
 # 💫 About Me:
-Intern @Corizo || Cloud Computing || Full Stack Web developer || Python || Explorer || Flutter Developer
+Flutter Developer || Java || Cloud Computing || Full Stack Web developer || Python || Explorer
 
 
 ## 🌐 Socials:
