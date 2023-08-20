@@ -1,25 +1,39 @@
-# 💻 Tech Stack:
-🔥 Passionate Web Developer 💻 | Flutter 🦋 | Java ☕ | Cloud Computing ☁️ | AWS 🚀 | WordPress 🌐 | Open Source Enthusiast 👨‍💻
+<h1 align="center">Hi 👋, I'm Harsh Singh</h1>
+<h3 align="center">A passionate Web developer from India</h3>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_harshu_0026) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-singh-414a47219/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Harshu) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/user:20692764) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@HarshSingh0026) 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshu0026&label=Profile%20views&color=0e75b6&style=flat" alt="harshu0026" /> </p>
 
-# 💫 About Me:
-🌟As a passionate and motivated fresher web developer, I have a good foundation in Flutter, Java, Cloud Computing ☁️, AWS 🚀, and Open Source technologies👨‍💻. With experience in AWS, I have gained valuable insights into cloud infrastructure and deployment strategies.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshu0026" alt="harshu0026" /></a> </p>
 
-🔍 Passionate about exploring new technologies and continuously expanding my skill set. This drive for continuous improvement allows me to adapt quickly to new technologies and frameworks.
+<p align="left"> <a href="https://twitter.com/harshsingh0026" target="blank"><img src="https://img.shields.io/twitter/follow/harshsingh0026?logo=twitter&style=for-the-badge" alt="harshsingh0026" /></a> </p>
 
-💼 I am now seeking opportunities to apply my knowledge and skills in a dynamic and collaborative environment. With a good foundation in web development and a dedication to continuous learning, I am confident in my ability to contribute to the success of any team.
+- 🌱 I’m currently learning **React, DSA, Java**
 
-🎵 Aside from my technical skills, I have a creative side that finds expression through music. Listening to songs fuels my creativity and helps me approach problem-solving from unique angles, bringing fresh perspectives to my work.
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=harshu0026&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshu0026&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+- 👨‍💻 All of my projects are available at [http://harshsingh.lovestoblog.com/](http://harshsingh.lovestoblog.com/)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+- 📝 I regularly write articles on [https://imharsh.hashnode.dev/](https://imharsh.hashnode.dev/)
 
----
-[![](https://visitcount.itsvg.in/api?id=harshu0026&icon=3&color=1)](https://visitcount.itsvg.in)
+- 💬 Ask me about **Web development**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 📫 How to reach me **hharshu2682002@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1fquhgi0tOB3eUCf7D_ghGcu_WBm4WjAZ/view?usp=sharing](https://drive.google.com/file/d/1fquhgi0tOB3eUCf7D_ghGcu_WBm4WjAZ/view?usp=sharing)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/harshsingh0026" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshsingh0026" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/harsh-singh-414a47219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harsh-singh-414a47219/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/20692764/harsh-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/20692764/harsh-singh" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/_harshu_0026/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_harshu_0026/" height="30" width="40" /></a>
+<a href="https://hashnode.com/https://hashnode.com/@harshu0026" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/@harshu0026" height="30" width="40" /></a>
+<a href="https://discord.gg/#6429" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#6429" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshu0026&show_icons=true&locale=en&layout=compact" alt="harshu0026" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshu0026&show_icons=true&locale=en" alt="harshu0026" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshu0026&" alt="harshu0026" /></p>
